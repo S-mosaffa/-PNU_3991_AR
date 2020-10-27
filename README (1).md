@@ -1,22 +1,20 @@
 # PNU_3991_AR
 ---------
-### اسم
+### صبا مصفا
  
 ---
-- [حساب گیت هاب](لینک گیت هاب)
+- [حساب گیت هاب](https://github.com/S-mosaffa)
 
-- [رزومه](لینک رزومه)
+- [رزومه](https://s-mosaffa.github.io/mosaffa/)
 
-- [SOP](لینک انگیزه نامه)
+- [SOP]( https://s-mosaffa.github.io/s.mosaffa/)
 
 
 ------------------
 ## Winter Semester Courses 1399/2020
 
-##دروس کارشناسی
+## دروس کارشناسی
 
-[1115157_01 & 02 نظريه زبانهاوماشين ها 3]()
-<br>
 [1322108_01 تعامل انسان و كامپيوتر 3]()
 <br>
 [1322110_01 طراحي واسط كاربر 3]()
@@ -44,7 +42,7 @@
    <tr>
     <th ></th>
     <th ></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها 01-1115157</a></th>
+    <th ></th>
     <th></th>
     <th ></th>
     <th>یک شنبه</th>
