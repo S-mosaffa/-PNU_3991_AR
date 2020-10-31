@@ -7,7 +7,7 @@
 
 - [رزومه](https://s-mosaffa.github.io/mosaffa/)
 
-- [SOP]( https://s-mosaffa.github.io/s.mosaffa/)
+- [SOP](https://s-mosaffa.github.io/sop/)
 
 
 ------------------
