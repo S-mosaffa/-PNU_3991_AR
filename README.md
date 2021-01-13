@@ -9,7 +9,16 @@
 
 - [SOP](https://s-mosaffa.github.io/sop/)
 
+-[Certificates]()
+------------------
+###ارزیابی ها 
+>بخش عمومی 
+-[ارزیابی رزومه و انگیزه نامه]()
+-[خلاصه ارزیابی بخش عمومی]()
 
+>بخش دروس کارشناسی
+-[خلاصه ارزیابی درس طراحی واسط کاربر]()
+-[خلاصه ارزیابی درس تعامل انسان و کامپیوتر]()
 ------------------
 ## Winter Semester Courses 1399/2020
 
@@ -28,7 +37,7 @@
     <th >14-16</th>
     <th >12-14</th>
     <th>10-12</th>
-    <th>8-10</th>
+    <th>شبکه های کامپیوتری</th>
     <th>روز</th>
   </tr>
   <tr>
@@ -49,15 +58,15 @@
   </tr>
    <tr>
      <th ></th>
-     <th ></th>
-     <th></th>
-    <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحي واسط كاربر</a></th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و كامپيوتر</a></th>   
+     <th >اصول طراحی کامپایلر</th>
+     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin">طراحي واسط كاربر</a></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و كامپيوتر</a></th>
+    <th></th>   
     <th>دوشنبه</th>
   </tr>
    <tr>
     <th ></th>
-    <th ></th>
+    <th >سیستم های عامل</th>
     <th></th>
     <th></th>
     <th ></th>
@@ -75,7 +84,7 @@
    <th ></th>
     <th ></th>
      <th ></th>
-     <th ></th>
+     <th >آزمایشگاه سیستم عامل</th>
     <th ></th>
     <th>پنج شنبه</th>
   </tr>
