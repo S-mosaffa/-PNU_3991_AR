@@ -13,8 +13,8 @@
 ------------------
 ## ارزیابی ها 
 >بخش عمومی 
-- [ارزیابی رزومه و انگیزه نامه]()
-- [خلاصه ارزیابی بخش عمومی]()
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/S-mosaffa/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/S-mosaffa/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
 
 >بخش دروس کارشناسی
 - [خلاصه ارزیابی درس طراحی واسط کاربر]()
