@@ -18,7 +18,7 @@
 
 >بخش دروس کارشناسی
 - [خلاصه ارزیابی درس طراحی واسط کاربر]()
-- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر]()
+- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/S-mosaffa/PNU_3991_AR/blob/main/HumanComputerInteraction/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
 ------------------
 ## Winter Semester Courses 1399/2020
 
