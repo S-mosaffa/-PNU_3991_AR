@@ -9,7 +9,7 @@
 
 - [SOP](https://s-mosaffa.github.io/sop/)
 
-- [Certificates](https://s-mosaffa.github.io/Certificates/)
+- [Certificates](https://s-mosaffa.github.io/certificates/)
 ------------------
 ## ارزیابی ها 
 >بخش عمومی 
