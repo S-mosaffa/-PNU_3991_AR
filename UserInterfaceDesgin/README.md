@@ -15,7 +15,7 @@
 
 
 ### چک لیست درس
-[ اینجا کلیک کنید]()
+[ اینجا کلیک کنید](https://github.com/S-mosaffa/PNU_3991_AR/blob/main/UserInterfaceDesgin/XX_UserInterfaceDesgin_CheckList_AR_3991%20(1).pdf)
 
 
  
