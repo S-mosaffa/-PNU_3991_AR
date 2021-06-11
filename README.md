@@ -9,7 +9,7 @@
 
 - [SOP](https://s-mosaffa.github.io/sop/)
 
--[Certificates](https://s-mosaffa.github.io/certificates/)
+- [Certificates](https://s-mosaffa.github.io/certificates/)
 
 ------------------
 
