@@ -15,21 +15,21 @@
 ## ارزیابی ها
 
 >  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](MA_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](MA_GeneralSection_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/S-mosaffa/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/S-mosaffa/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
 
 >  بخش دروس کارشناسی
-- [خلاصه ارزیابی درس طراحی واسط کاربر](https://github.com/mim-asadpour/PNU_3991_AR/blob/main/UserInterfaceDesgin/MA_UserInterfaceDesgin_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/mim-asadpour/PNU_3991_AR/blob/main/HumanComputerInteraction/MA_HumanComputerInteraction_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس طراحی واسط کاربر](https://github.com/S-mosaffa/PNU_3991_AR/blob/main/UserInterfaceDesgin/XX_UserInterfaceDesgin_CheckList_AR_3991%20(1).pdf)
+- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/S-mosaffa/PNU_3991_AR/blob/main/HumanComputerInteraction/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
 ------------------
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
 
 
-[1322108_01 تعامل انسان و كامپيوتر 3](https://github.com/mim-asadpour/PNU_3991_AR/tree/main/HumanComputerInteraction)
+[1322108_01 تعامل انسان و كامپيوتر 3](https://github.com/S-mosaffa/PNU_3991_AR/tree/main/HumanComputerInteraction)
 <br>
-[1322110_01 طراحي واسط كاربر 3](https://github.com/mim-asadpour/PNU_3991_AR/tree/main/UserInterfaceDesgin)
+[1322110_01 طراحي واسط كاربر 3](https://github.com/S-mosaffa/PNU_3991_AR/tree/main/UserInterfaceDesgin)
 
 
 ------------------
